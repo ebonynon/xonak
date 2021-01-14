@@ -1,3 +1,5 @@
+import logo from "./img/logo.png";
+
 export default function Header() {
   return (
     <div class="container">
@@ -6,7 +8,7 @@ export default function Header() {
           <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand" href="index.html">
               {" "}
-              <img src="img/logo.png" alt="logo" />{" "}
+              <img src={logo} alt="logo" />{" "}
             </a>
             <button
               class="navbar-toggler"
