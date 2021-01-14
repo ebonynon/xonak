@@ -8,7 +8,7 @@ import Footer from "./footer";
 
 function App() {
   return (
-    <>
+    <div>
       <Header />
       <Banner_part />
       <Cta_part />
@@ -17,7 +17,7 @@ function App() {
       <Our_latest_work />
       <Our_latest_work />
       <Footer />
-    </>
+    </div>
   );
 }
 
