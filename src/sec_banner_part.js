@@ -11,7 +11,7 @@ export default function Banner_part() {
                 Think <span>Creative Turn</span>
               </h2>
               <h3>Ideas Into Life</h3>
-              <a href="#" class="btn_1">
+              <a href={"#"} class="btn_1">
                 learn more <i class="ti-angle-right"></i>
               </a>
             </div>

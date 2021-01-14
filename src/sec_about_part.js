@@ -28,7 +28,7 @@ export default function About_part() {
               unto beast sixth herb their bring. Evening fruitful god you spir
               evning itself land you of of own brought
             </p>
-            <a href="#" class="btn_1">
+            <a href={"#"} class="btn_1">
               learn more <i class="ti-angle-right"></i>
             </a>
           </div>

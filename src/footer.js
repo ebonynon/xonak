@@ -48,16 +48,16 @@ export default function Footer() {
               </div>
             </form>
             <div class="social_icon">
-              <a href="#">
+              <a href={"#"}>
                 <i class="ti-facebook"></i>
               </a>
-              <a href="#">
+              <a href={"#"}>
                 <i class="ti-twitter-alt"></i>
               </a>
-              <a href="#">
+              <a href={"#"}>
                 <i class="ti-instagram"></i>
               </a>
-              <a href="#">
+              <a href={"#"}>
                 <i class="ti-skype"></i>
               </a>
             </div>
@@ -69,37 +69,37 @@ export default function Footer() {
             <div class="footer_img">
               <div class="single_footer_img">
                 <img src={footer_img_1} alt="" />
-                <a href="#">
+                <a href={"#"}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
                 <img src={footer_img_2} alt="" />
-                <a href="#">
+                <a href={"#"}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
                 <img src={footer_img_3} alt="" />
-                <a href="#">
+                <a href={"#"}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
                 <img src={footer_img_4} alt="" />
-                <a href="#">
+                <a href={"#"}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
                 <img src={footer_img_5} alt="" />
-                <a href="#">
+                <a href={"#"}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
                 <img src={footer_img_6} alt="" />
-                <a href="#">
+                <a href={"#"}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>
