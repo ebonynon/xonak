@@ -1,11 +1,14 @@
+import about_img_1 from "./img/about_img_1.png";
+import about_img_2 from "./img/about_img_2.png";
+
 export default function About_part() {
   return (
     <div class="container-fluid">
       <div class="row align-items-center">
         <div class="col-lg-5">
           <div class="about_img">
-            <img src="img/about_img_1.png" class="img_1" alt="" />
-            <img src="img/about_img_2.png" class="img_2" alt="" />
+            <img src={about_img_1} class="img_1" alt="" />
+            <img src={about_img_2} class="img_2" alt="" />
             <h2>
               25 Years Working <br />
               Experience
@@ -23,10 +26,10 @@ export default function About_part() {
             <p>
               Meat abundantly life made fly years there whose beginning crea
               unto beast sixth herb their bring. Evening fruitful god you spir
-              evning itself land you of of own brought{" "}
+              evning itself land you of of own brought
             </p>
             <a href="#" class="btn_1">
-              learn more <i class="ti-angle-right"></i>{" "}
+              learn more <i class="ti-angle-right"></i>
             </a>
           </div>
         </div>

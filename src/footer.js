@@ -1,3 +1,11 @@
+import footer_logo from "./img/footer_logo.png";
+import footer_img_1 from "./img/footer_img/footer_img_1.png";
+import footer_img_2 from "./img/footer_img/footer_img_2.png";
+import footer_img_3 from "./img/footer_img/footer_img_3.png";
+import footer_img_4 from "./img/footer_img/footer_img_4.png";
+import footer_img_5 from "./img/footer_img/footer_img_5.png";
+import footer_img_6 from "./img/footer_img/footer_img_6.png";
+
 export default function Footer() {
   return (
     <div class="container">
@@ -5,12 +13,11 @@ export default function Footer() {
         <div class="col-sm-6 col-md-6 col-xl-3">
           <div class="single-footer-widget footer_1">
             <a href="index.html">
-              {" "}
-              <img src="img/footer_logo.png" alt="" />{" "}
+              <img src={footer_logo} alt="" />
             </a>
             <p>
               But when shot real her. Chamber her one visite removal six sending
-              himself boys scot exquisite existend an{" "}
+              himself boys scot exquisite existend an
             </p>
             <p>But when shot real her hamber her </p>
           </div>
@@ -42,20 +49,16 @@ export default function Footer() {
             </form>
             <div class="social_icon">
               <a href="#">
-                {" "}
-                <i class="ti-facebook"></i>{" "}
+                <i class="ti-facebook"></i>
               </a>
               <a href="#">
-                {" "}
-                <i class="ti-twitter-alt"></i>{" "}
+                <i class="ti-twitter-alt"></i>
               </a>
               <a href="#">
-                {" "}
-                <i class="ti-instagram"></i>{" "}
+                <i class="ti-instagram"></i>
               </a>
               <a href="#">
-                {" "}
-                <i class="ti-skype"></i>{" "}
+                <i class="ti-skype"></i>
               </a>
             </div>
           </div>
@@ -65,37 +68,37 @@ export default function Footer() {
             <h4>Instagram</h4>
             <div class="footer_img">
               <div class="single_footer_img">
-                <img src="img/footer_img/footer_img_1.png" alt="" />
+                <img src={footer_img_1} alt="" />
                 <a href="#">
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
-                <img src="img/footer_img/footer_img_2.png" alt="" />
+                <img src={footer_img_2} alt="" />
                 <a href="#">
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
-                <img src="img/footer_img/footer_img_3.png" alt="" />
+                <img src={footer_img_3} alt="" />
                 <a href="#">
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
-                <img src="img/footer_img/footer_img_4.png" alt="" />
+                <img src={footer_img_4} alt="" />
                 <a href="#">
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
-                <img src="img/footer_img/footer_img_5.png" alt="" />
+                <img src={footer_img_5} alt="" />
                 <a href="#">
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
-                <img src="img/footer_img/footer_img_6.png" alt="" />
+                <img src={footer_img_6} alt="" />
                 <a href="#">
                   <i class="ti-instagram"></i>
                 </a>

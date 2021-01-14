@@ -1,3 +1,7 @@
+import demo_1 from "./img/demo/demo_1.png";
+import demo_2 from "./img/demo/demo_2.png";
+import demo_3 from "./img/demo/demo_3.png";
+
 export default function Our_latest_work() {
   return (
     <div class="container-fluid">
@@ -34,7 +38,7 @@ export default function Our_latest_work() {
               </div>
               <div class="offset-lg-1 col-lg-6 col-md-6">
                 <div class="demo_img">
-                  <img src="img/demo/demo_1.png" alt="demo" />
+                  <img src={demo_1} alt="demo" />
                 </div>
               </div>
             </div>
@@ -43,7 +47,7 @@ export default function Our_latest_work() {
             <div class="row align-items-center">
               <div class="col-lg-6 col-md-6">
                 <div class="demo_img">
-                  <img src="img/demo/demo_2.png" alt="demo" />
+                  <img src={demo_2} alt="demo" />
                 </div>
               </div>
               <div class="col-lg-4 col-md-6">
@@ -90,7 +94,7 @@ export default function Our_latest_work() {
               </div>
               <div class="offset-lg-1 col-lg-6 col-md-6">
                 <div class="demo_img">
-                  <img src="img/demo/demo_3.png" alt="demo" />
+                  <img src={demo_3} alt="demo" />
                 </div>
               </div>
             </div>

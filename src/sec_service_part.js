@@ -9,7 +9,7 @@ export default function Service_part() {
               <h3>Responsive Design</h3>
               <p>
                 Creeping for female light yea that lesser cand evening heaven
-                isn't bearing tree appear{" "}
+                isn't bearing tree appear
               </p>
             </div>
           </div>
@@ -21,7 +21,7 @@ export default function Service_part() {
               <h3>Quality Matters</h3>
               <p>
                 Creeping for female light yea that lesser cand evening heaven
-                isn't bearing tree appear{" "}
+                isn't bearing tree appear
               </p>
             </div>
           </div>
@@ -33,7 +33,7 @@ export default function Service_part() {
               <h3>Better Securty</h3>
               <p>
                 Creeping for female light yea that lesser cand evening heaven
-                isn't bearing tree appear{" "}
+                isn't bearing tree appear
               </p>
             </div>
           </div>
@@ -45,7 +45,7 @@ export default function Service_part() {
               <h3>24/7 Service</h3>
               <p>
                 Creeping for female light yea that lesser cand evening heaven
-                isn't bearing tree appear{" "}
+                isn't bearing tree appear
               </p>
             </div>
           </div>
