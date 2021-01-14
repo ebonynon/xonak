@@ -2,6 +2,8 @@ import about_img_1 from "./img/about_img_1.png";
 import about_img_2 from "./img/about_img_2.png";
 
 export default function About_part() {
+  let Link = "#";
+
   return (
     <div class="container-fluid">
       <div class="row align-items-center">
@@ -28,7 +30,7 @@ export default function About_part() {
               unto beast sixth herb their bring. Evening fruitful god you spir
               evning itself land you of of own brought
             </p>
-            <a href={"#"} class="btn_1">
+            <a href={Link} class="btn_1">
               learn more <i class="ti-angle-right"></i>
             </a>
           </div>

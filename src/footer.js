@@ -7,6 +7,8 @@ import footer_img_5 from "./img/footer_img/footer_img_5.png";
 import footer_img_6 from "./img/footer_img/footer_img_6.png";
 
 export default function Footer() {
+  let Link = "#";
+
   return (
     <div class="container">
       <div class="row justify-content-between">
@@ -48,16 +50,16 @@ export default function Footer() {
               </div>
             </form>
             <div class="social_icon">
-              <a href={"#"}>
+              <a href={Link}>
                 <i class="ti-facebook"></i>
               </a>
-              <a href={"#"}>
+              <a href={Link}>
                 <i class="ti-twitter-alt"></i>
               </a>
-              <a href={"#"}>
+              <a href={Link}>
                 <i class="ti-instagram"></i>
               </a>
-              <a href={"#"}>
+              <a href={Link}>
                 <i class="ti-skype"></i>
               </a>
             </div>
@@ -69,37 +71,37 @@ export default function Footer() {
             <div class="footer_img">
               <div class="single_footer_img">
                 <img src={footer_img_1} alt="" />
-                <a href={"#"}>
+                <a href={Link}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
                 <img src={footer_img_2} alt="" />
-                <a href={"#"}>
+                <a href={Link}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
                 <img src={footer_img_3} alt="" />
-                <a href={"#"}>
+                <a href={Link}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
                 <img src={footer_img_4} alt="" />
-                <a href={"#"}>
+                <a href={Link}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
                 <img src={footer_img_5} alt="" />
-                <a href={"#"}>
+                <a href={Link}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>
               <div class="single_footer_img">
                 <img src={footer_img_6} alt="" />
-                <a href={"#"}>
+                <a href={Link}>
                   <i class="ti-instagram"></i>
                 </a>
               </div>

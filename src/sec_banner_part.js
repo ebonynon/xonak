@@ -1,6 +1,8 @@
-import banner_img from "./img/banner_img.png"
+import banner_img from "./img/banner_img.png";
 
 export default function Banner_part() {
+  let Link = "#";
+
   return (
     <div class="container">
       <div class="row align-items-center justify-content-between">
@@ -11,7 +13,7 @@ export default function Banner_part() {
                 Think <span>Creative Turn</span>
               </h2>
               <h3>Ideas Into Life</h3>
-              <a href={"#"} class="btn_1">
+              <a href={Link} class="btn_1">
                 learn more <i class="ti-angle-right"></i>
               </a>
             </div>
